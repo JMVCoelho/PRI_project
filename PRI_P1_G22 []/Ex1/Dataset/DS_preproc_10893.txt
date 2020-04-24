@@ -1,0 +1,1 @@
+thought project lines onto plane formed linesintersection calculation plane guaranteed unique solution unless parallel happen case use parametric distance along lines circle centres determine exact point interestbypasses messy error propogation required calculationhope put footsteve

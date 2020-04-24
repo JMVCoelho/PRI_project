@@ -1,0 +1,1 @@
+widget already defined glglxmdraw motif glxdraw athena widgetsimilar xmdrawingarea except allows use gl calls render windowlook glxlink glxunlink glxgetconfig glxwinset man pagesglxmdraw widget works pretty wellopengl improvementthink gl little easier use little powerful opinionmileage may vary

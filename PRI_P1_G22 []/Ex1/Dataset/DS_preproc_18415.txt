@@ -1,0 +1,1 @@
+capture buttonpress buttonrelease events multiple clientswant know user still display locking screenget keypress keyrelease pointer motion events user pressing mouse button location mouse move capture eventsreilly xlib programming manual volsays page one client select button events one window one time due grab automatically takes placehelp would appreciated

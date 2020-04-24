@@ -1,0 +1,1 @@
+recently got file describing library rendering routines called sipp simple polygon processorcould anyone tell ftp source code newest version aroundalso never used renderman wondering renderman like sippielibrary rendering routines one uses make program creates imagethanks joe tham

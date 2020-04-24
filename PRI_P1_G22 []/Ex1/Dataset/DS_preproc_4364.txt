@@ -1,0 +1,1 @@
+dont rely benchmarksoften show incorrect due different tsr programsscsi often needs driver get speed cardmake sure card operating synchronus mode x fasterdisable disconnect get kb loose mouse int diskaccesingget mb dx lb scsi lb maxtor lxtsy coretest get mb sysinfo

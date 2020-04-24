@@ -1,0 +1,1 @@
+yet another xview question easy way detecting user resized frame _externally_ way window manager e ggrabbing letting go frame resize corners olwmplease let knowderek

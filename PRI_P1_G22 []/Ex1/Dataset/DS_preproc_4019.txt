@@ -1,0 +1,1 @@
+try char name null unsigned long value xgetfontproperty font xa_font value name xgetatomname dpy value dpy display connection font xfontstruct pointer

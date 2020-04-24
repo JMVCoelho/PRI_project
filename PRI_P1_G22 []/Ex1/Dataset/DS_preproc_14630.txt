@@ -1,0 +1,1 @@
+following problem dell se ati graphics ultra pro eisa start windows first times try run application startwindows show following error message error executing applicationenough memory run applicationfirst tries application want run start afterwards problemschange video driver mach problem occur suspect ati drivers tried build build driveranyone clue

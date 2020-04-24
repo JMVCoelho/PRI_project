@@ -1,0 +1,1 @@
+version wcl ported solaris including ansi cnumerous problems trying compile wcl solaris functions prototypeswcl sun user group cdsplease email answers list

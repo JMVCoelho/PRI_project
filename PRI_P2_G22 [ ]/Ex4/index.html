@@ -1,0 +1,58 @@
+<html>
+  <meta charset="ISO-8859-1">
+
+  <head>
+    <title>Keyphrase Extraction</title>
+    <link rel="stylesheet" href="CSS/22.css">
+  </head>
+  <style>
+    select { width: 10em }
+  </style>
+  <body>
+
+      
+      <h1>Keyphrase Extraction </h1>
+      <h3>Information Processing and Retrieval</h3>
+      <p>Group 22</p>
+      <p>Model used for extraction: Reciprocal Rank Fusion</p>
+      <p>Features: PageRank Score, Unweighted TFIDF, Position in the document</p>
+      <p>PageRank: Weights based on word embeddings. Prior probabilities based on candidate length and position</p>
+      <hr>
+
+      <div class="column left">
+        <h3>Documents:</h3>
+        <div class = "select-wrapper">
+          <select class = "select-by-title" id = "select-by-title" >
+          </select>
+        </div>
+      </div>
+  
+
+      <div class="column right">
+        <h3>Text:</h3>
+        <div class="TEXT" id="text"> </div>
+        <h3>Keyphrases:</h3>
+        <div class="KP" id="kp"> </div>
+      </div>
+
+      <hr>
+
+      <div class="column left">
+        <h3>Keyphrases:</h3>
+        <div class = "select2-wrapper">
+          <select class = "select-by-kp" id = "select-by-kp" >
+            <option value="-1"> Select KeyPhrase </option>
+          </select>
+        </div>
+      </div>
+
+      <div class="column right">
+        <h3>Documents:</h3>
+        <div class="docs" id="docs"></div>
+      </div>
+
+  </body>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script src="JS/22.js" charset></script> 
+</html>
+

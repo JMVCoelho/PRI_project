@@ -1,0 +1,5 @@
+drought
+farm
+farmers
+crop
+prices

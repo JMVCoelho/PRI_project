@@ -1,0 +1,1 @@
+ok driven battytrying create popup menus iebutton press menu appearswould really like use standard athena classes achieve goal best attempts cannot get menus come without using menubutton parent widget treeknow possible xtpopupspringloaded little twiddling something escaping

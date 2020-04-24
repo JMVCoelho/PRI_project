@@ -1,0 +1,1 @@
+create grey level images display time slicesrequires total exposure time precision timing drastically reduces image preparation time

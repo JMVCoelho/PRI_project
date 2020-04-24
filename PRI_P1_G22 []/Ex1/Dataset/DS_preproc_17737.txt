@@ -1,0 +1,1 @@
+third edition june reilly book vol badmatch invalid setting window attribute attribute besides win_gravity event_mask do_not_propogate mask override_redirect cursor specified inputonly window depth non zero inputonly parent inputoutput inputonly border_width non zero inputonly depth visual invalid screen width height

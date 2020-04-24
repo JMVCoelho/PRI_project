@@ -1,0 +1,1 @@
+constructing active filters odd values resistor often required esomething like k ohm resistorseems best choose common capacitor values cope strange resistances demandedpd program work best make resistance given fixed resistors standard values per decadeetccommon enough problem yet cant recall seing program tells rx ry rz gives rq starting q finding prefered values x z

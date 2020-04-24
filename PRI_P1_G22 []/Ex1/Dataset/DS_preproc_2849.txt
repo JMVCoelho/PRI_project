@@ -1,0 +1,1 @@
+hi piece x code compiles fine pmax ul pmax_mach well sun_mach whenever compiles sun_ gives undefined ld errors _sin _cos _pow _floor _get_wmshellwidgetclass _get_applicationshellwidgetclass following libraries linked lxaw lxmu lxt lxext lx makefile generated imake templateanyone give pointers missing compile sun_

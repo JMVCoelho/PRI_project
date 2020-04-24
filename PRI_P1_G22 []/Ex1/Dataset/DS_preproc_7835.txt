@@ -1,0 +1,1 @@
+without real technical details hard answer questionsuppose already xoring two bit parts produce bits real key materialmaybe using exportable version rc

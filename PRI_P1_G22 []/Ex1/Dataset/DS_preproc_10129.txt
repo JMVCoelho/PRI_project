@@ -1,0 +1,1 @@
+bus mastering isa bustalking isa bus dma channel active one time presumably transferring data single deviceeven though least devices scsi bus explain devices dma transfers single scsi card isa bus timealso still trying track copy ibm reference book pc technical manual page

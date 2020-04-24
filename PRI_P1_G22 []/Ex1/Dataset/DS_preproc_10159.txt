@@ -1,0 +1,1 @@
+anyone tell get total number color cells allocated default colormape gcolormap defaultcolormap mydisplay myscreen maximum number allocated cells given defaultcells mydisplay myscreen general number cells actually allocated much less depending color requirements windows currently placelike way determine numberthanks advancederek

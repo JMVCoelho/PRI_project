@@ -1,0 +1,1 @@
+seems like xtranslatecoordwork way expectingright performs xmovewindow want know absolute window position respect root windowget infoxtranslatecoordinates abs_x abs_y rightanybody know way find informationthanks please e mail hsteve carina unm edu possible

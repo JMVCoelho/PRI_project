@@ -1,0 +1,1 @@
+hione aspi drivers think aspicd supports norst paramter means reset scsi bus loadsfixed problem friend mine adaptec toshregards

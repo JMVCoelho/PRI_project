@@ -1,0 +1,1 @@
+hello world want write xt application code like do_some_work need user input xmcreatedialog wait_for_user_input input input ok more_work else other_work more_work other_work callback functions application simply waits user answer questioncode xt motif applicationthanks much advancegreetings huub

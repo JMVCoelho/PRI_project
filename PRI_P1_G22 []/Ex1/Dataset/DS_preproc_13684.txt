@@ -1,0 +1,1 @@
+hi someone program sending key event another window must appear windowused xsendevent tar packageexample get program executing bin sh read something echo something send key event keypress keyrelease window get something thanks advance

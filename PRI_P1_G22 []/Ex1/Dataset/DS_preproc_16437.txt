@@ -1,0 +1,1 @@
+sco odt allows adapt x server non standard keyboard using xkeyboard configuration compiler xsconfigsco provides configuration files usr lib x xsconfig kbd e gsiemens wxquestion anywhere configuration file hpa keyboard availableespecially interested using hp specific keys insertline menu

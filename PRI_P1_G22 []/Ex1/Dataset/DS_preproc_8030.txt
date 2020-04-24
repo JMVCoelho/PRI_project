@@ -1,0 +1,1 @@
+available xvertext summary xvertext provides four functions draw strings angle x window previous versions limited vertical textrotation still achieved using ximages notion rotating whole font first droppednewadded cache keeps copy previously rotated strings thus speeding redrawsgetcomp sources x soon export lcs mit edu contrib xvertext shar z

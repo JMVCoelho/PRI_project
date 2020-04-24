@@ -1,0 +1,1 @@
+helpwrite second bank page memory vga xx colour modeie perform page flipping animation buffering screentried using map mask registers perform required task although somethingnote must able work standard vga ie necessarily svga card

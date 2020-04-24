@@ -1,0 +1,1 @@
+recently used switch bipolar signalsimply ran bipolar supply v caselong analog input signal stays supply rails work finecourse control logic input must use v logic low v logic high reference either driving logic must cmos bipolar supply must provide kind voltage level shifting circuit control logiccase able use bipolar supply way

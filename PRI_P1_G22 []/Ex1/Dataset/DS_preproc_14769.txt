@@ -1,0 +1,1 @@
+allocate real static data within code segmentsneed dynamic memory allocate data global heapforget written memory managementpaged virtual memorylock every block without hampering memory manageruse far pointer everytime without always lock unlocking memory blockbesides dll mostly disguised exe happen called another taskkarl

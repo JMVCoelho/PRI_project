@@ -1,0 +1,5 @@
+earthquakes
+last
+damage
+survey reported
+people

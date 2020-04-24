@@ -1,0 +1,1 @@
+possibly still going backwards compatible isa bus going tripe current eisa implementation reallyseen pci bus new bit mhz intelligent bus ie bus controller takes care interrupts like jumpers hopefully get somewhere amiga zorro iii bus vl bus bit much hack liking

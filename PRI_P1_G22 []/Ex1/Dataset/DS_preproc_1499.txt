@@ -1,0 +1,1 @@
+return_place probably incorrectpointer integerxgetwindowproperty allocates memory copies data returns pointer memoryfree memory done

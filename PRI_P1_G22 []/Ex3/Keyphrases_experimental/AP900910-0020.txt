@@ -1,0 +1,10 @@
+drought region
+favorable financial position
+market prices
+non drought region
+inventories
+farms
+number of farms
+commodity market prices
+solvency position
+gross income

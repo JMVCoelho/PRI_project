@@ -1,0 +1,1 @@
+recall reading review article pc computing wherein reported reduction loading time lengthy programs using stackerdue compression algorithm per se fact fewer fetches required sequential file accessanyone actual performance numbers relating speeds stacker dblspace

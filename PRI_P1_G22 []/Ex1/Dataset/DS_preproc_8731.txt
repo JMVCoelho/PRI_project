@@ -1,0 +1,1 @@
+problem isa bus masters address first mbs system memorybus masters use cpu system dma actual data transfer transfer data directly system ramrp

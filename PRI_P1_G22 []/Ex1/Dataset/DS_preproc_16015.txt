@@ -1,0 +1,1 @@
+hi looking program able display bits imagesusing sun sparc equipped parallax graphics board running x

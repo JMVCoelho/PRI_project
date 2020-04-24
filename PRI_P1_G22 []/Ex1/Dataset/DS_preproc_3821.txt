@@ -1,0 +1,1 @@
+want create single line text widget entering small amount textwant fixed width horizontal scrollbar scrolls automatically user types order keep insertion point visibletrying two problems addition horizontal scrollbar make text widget taller instead seems cover part textscrollbar scroll automatically user types text order keep insertion point visiblehelp appreciatedmike

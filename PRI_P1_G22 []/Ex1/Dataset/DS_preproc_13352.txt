@@ -1,0 +1,1 @@
+trueide bus uses signals similar name meaning counterpart isa bus ide bus signal timing isa signal timingvl ide bus card set jumpers set transfer rate mb sec mb sec manufacturer might correct numbers milion byte sec milion byte sec respectivelycannot transfer data rate mb sec isa busken nakata

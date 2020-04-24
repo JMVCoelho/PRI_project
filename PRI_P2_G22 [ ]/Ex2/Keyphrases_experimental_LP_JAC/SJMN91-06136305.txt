@@ -1,0 +1,5 @@
+re
+hispanic
+diabetes
+ca
+class

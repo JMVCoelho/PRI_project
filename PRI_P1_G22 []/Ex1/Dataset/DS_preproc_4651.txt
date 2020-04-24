@@ -1,0 +1,1 @@
+rix files extension sci scf raw file color palettefirst bytes kind header name rix among bytes unknown stuffbytes palette info colors rgb picture raw formatdont know make viewer description get vpic able read files

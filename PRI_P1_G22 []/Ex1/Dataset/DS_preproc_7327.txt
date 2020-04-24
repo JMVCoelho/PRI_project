@@ -1,0 +1,1 @@
+coreldraw whatever write scodl files directlylook file export main menu

@@ -1,0 +1,1 @@
+many x servers supporting graphics accelerators allow creation pixmaps exeeding size screenone workaround create several smaller pixmaps add results

@@ -1,0 +1,1 @@
+qrttoppm file dis ppmtotga file tga

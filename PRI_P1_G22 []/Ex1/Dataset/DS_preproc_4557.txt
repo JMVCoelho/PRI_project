@@ -1,0 +1,1 @@
+past used named pipes communicate processes using xtaddinput function set event handling motifanybody know way message passing ipctried luck far

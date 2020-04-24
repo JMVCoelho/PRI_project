@@ -1,0 +1,1 @@
+wanna maskingbuild bitmap pixmap depth one pixels name opaque get copied othersuse bitmap clip_mask gc used xcopyarea remember adjust clip_origin coordinates xcopyarea blit originmouse pointer besides driven using ramdac analog mapping hardwares uses maskwarned blitting mask especially moving around mask annoying slow xservers flickers even mips

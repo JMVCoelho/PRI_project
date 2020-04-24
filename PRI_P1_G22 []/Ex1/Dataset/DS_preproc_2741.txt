@@ -1,0 +1,1 @@
+following problem really bugging would appreciate helpcreate two windows w child root event_mask buttonpressmask keypressmask w child w do_not_propagate_mask buttonpressmask keypressmask keypress events w discarded buttonpress events fall w subwindow set wfyi using xnews olvwmsomething fundamentally wrong

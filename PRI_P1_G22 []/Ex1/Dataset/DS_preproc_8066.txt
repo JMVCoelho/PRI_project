@@ -1,0 +1,1 @@
+hisorry german hope understanduebertragung der schaltplan daten sch die board daten job pads logic reports net list select pads pcb net list output file name filename angeben pads pcb ascii ascii input file name filename angeben errors aoutput file name filename angeben nicht cr jetzt sind alle bauteile auf einem haufen und muessen mit move verteilt werdenviele gruesse

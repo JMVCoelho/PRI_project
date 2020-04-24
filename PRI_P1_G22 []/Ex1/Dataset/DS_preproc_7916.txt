@@ -1,0 +1,1 @@
+anybody know good graphics packages available ibm rs aixlooking something like dec gks hewlett packards starbase reasonably good support different output devices like plotters terminals x etctried also xgks x distribution ibm implementation phigswork require output devices x windowssalesman ibm familiar graphics expecting good solutionsari

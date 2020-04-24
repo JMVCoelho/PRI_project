@@ -1,0 +1,1 @@
+want something like date xcb xcutsel get output date command put xprimary selectionunfortunately xcutsel interactive little bugger command argument tell put little windowcommand use likeanalog xcb put stuff xprimary instead cut buffer

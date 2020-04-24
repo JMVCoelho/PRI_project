@@ -1,0 +1,1 @@
+actually bug solaris kernelcould add workaround xtermopen never return einval time update r sunos patch lately non existing problems seem warrant new set patchesxdm coulda also keep xdm environment variableinherited environment

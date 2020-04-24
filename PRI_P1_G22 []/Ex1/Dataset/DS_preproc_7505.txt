@@ -1,0 +1,1 @@
+need resources xterm eightbitinput true xterm eightbitoutput trueshell need stty cs istrip good luckvictor

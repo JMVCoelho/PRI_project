@@ -1,0 +1,1 @@
+one know timing pin compatibleseems iheirent bug cts rts handshaking need suitable pin replacement put serial card possibly buffered version perhaps

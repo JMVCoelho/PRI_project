@@ -1,0 +1,1 @@
+hpgl support raster primitives formatter would punt popular image formatsprobably explains lack translatorsneed plot

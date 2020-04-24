@@ -1,0 +1,1 @@
+resist questions says something likeexpose event handler truly intelligent exposed rectangle information use xcleararea generate expose event assuming background pixel none enclosing rectangle new itemstill great since items contained within rectangle still unnecessarily redrawnexpose event handler simply redraws everything much work drawing new item top existing scene

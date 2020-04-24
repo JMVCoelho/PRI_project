@@ -1,0 +1,1 @@
+writing driver needs remap portsmeans virtual modeunfortunately virtual mode means get along expanded memory managers need make emm driveranyone emm codepoint emm code sourcethanks morgan

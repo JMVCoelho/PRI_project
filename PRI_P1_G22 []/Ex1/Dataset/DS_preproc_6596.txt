@@ -1,0 +1,1 @@
+question regarding sending null character across ethernet connectionactual problem emacs unix editior needs null character setting mark unfortunately know sent ibm pcs across ethernetwondering anyboy knows keyboard combination sending null characterbtw control shift ctrl workthanks

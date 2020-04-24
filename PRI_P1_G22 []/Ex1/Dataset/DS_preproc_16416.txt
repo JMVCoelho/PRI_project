@@ -1,0 +1,1 @@
+draw object specified color objects varying colors erase without redraw everything elsehappening draw using gxcopy drawn specified colorerase using gxcopy foreground background reversed erases whatever overlayedneed redraw items crossedyuchdraw using gxinvert drawn random color nothing resembling requestedproperly restores color underlying objects erase modesolution

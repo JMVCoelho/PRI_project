@@ -1,0 +1,1 @@
+functions character arraysstandard strings either defined string constants character pointers xtshellstrings xtstrings determined xtstringdefineslibraries compiled defined application undefined simply recompile oneprobably worth adding dxtstringdefines cflagsmichael salmon include standard disclaimer include witty saying include fancy pseudo graphics

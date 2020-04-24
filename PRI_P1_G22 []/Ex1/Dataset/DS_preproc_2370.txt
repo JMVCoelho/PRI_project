@@ -1,0 +1,1 @@
+anyone know application retrieve name font application given xfontstructwould xgetfontproperty work passed xa_font_nameanyone know detailsthanks advancebrian

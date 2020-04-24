@@ -1,0 +1,1 @@
+animation frequently done copying client resident ximages server resident pixmap using xputimagedone original ximages deleted animation loop performed using xcopyarea pixmaps windows drawablehope helpfull

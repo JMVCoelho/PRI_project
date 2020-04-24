@@ -1,0 +1,10 @@
+beers
+diamonds
+carat
+dealers
+dealer
+cartel
+engagement rings
+syndicate
+advertising
+zaire

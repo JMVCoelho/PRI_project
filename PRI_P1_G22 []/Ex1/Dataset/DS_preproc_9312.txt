@@ -1,0 +1,1 @@
+helptrying program vgagot working pascal following routines mode hgot vesa compatable trident c w meg need program modecare many colorscould someone take code help write new procedures replace workgreatthankscode currently mode procedure graphmode begin videomode asm mov ah mov al h int h end end videomode procedure plotpoint x c integer begin mem x c end

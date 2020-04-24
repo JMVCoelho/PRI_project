@@ -1,0 +1,1 @@
+hi trying build xr mit core distribution sparcstation running sunosthing change projectroot site defmake world process goes cc xdm get following error ld undefined symbol __caa error code process continues finishanybody know wrongthanx info

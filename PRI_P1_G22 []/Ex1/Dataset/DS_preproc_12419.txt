@@ -1,0 +1,1 @@
+help got applications series pushbuttons across top toolbarwanted add eventhandlers pushbuttons enterwindowmask leavewindowmask put descriptive text function pushbutton pointer crossesdone fine turned following problem pushbuttons sensitive get callbacks events sensitive get callbacks leavewindow eventsseems oddwould expect nothing type thingbugsomeone explain behaviorthanks

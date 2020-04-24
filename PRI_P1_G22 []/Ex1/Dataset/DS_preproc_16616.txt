@@ -1,0 +1,1 @@
+trouble compiling xtmenurunning sparc ipc using sunos openwindowsgetting undefined references arguments xtsetarg xttextedit xttextread etcusing wrong version librarymissing include filehelp would greatly appreciatedjeff

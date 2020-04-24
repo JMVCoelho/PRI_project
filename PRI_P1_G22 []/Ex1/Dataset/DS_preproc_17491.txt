@@ -1,0 +1,1 @@
+depends mode usingsingle bit input block one bit error percent chance corrupting output bits words essentially turns output block random numberencrypting data cbc mode however one bit block affectednext block follow decrypted properlygood idea kind error correction system corrupted bits likely

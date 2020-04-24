@@ -1,0 +1,1 @@
+dorothy denning _cryptography data security_ addison wesleypage heading cryptosystems must satisfy three general requirementstwo efficiency ease use

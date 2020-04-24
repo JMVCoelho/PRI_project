@@ -1,0 +1,1 @@
+need displaying surfaces x using xlib xt xmanyone know package available internet able worklooking stand alone package providing similar functions xprism available khoros without numerous libraries requiredwant able recompile run various platforms sgis unixhelp appreciated

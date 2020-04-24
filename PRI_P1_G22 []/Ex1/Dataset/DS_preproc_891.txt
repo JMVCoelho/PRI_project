@@ -1,0 +1,1 @@
+know way except see modifiers th keypress eventcourse reason need always know state modifiers even windows keyborads focus always ask keypress events root windowget keypresses always know pressedthink question implement xlookupstringalways write another function interprets keypresses likelook implementation xlookupstring xlib sources modify little bit

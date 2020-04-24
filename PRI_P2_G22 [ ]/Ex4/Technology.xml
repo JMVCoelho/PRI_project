@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Technology</title>
+    <link>https://www.nytimes.com/section/technology?emc=rss&amp;partner=rss</link>
+    <atom:link href="https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml" rel="self" type="application/rss+xml"></atom:link>
+    <description></description>
+    <language>en-us</language>
+    <copyright>Copyright 2019 The New York Times Company</copyright>
+    <lastBuildDate>Thu, 05 Dec 2019 23:45:30 +0000</lastBuildDate>
+    <image>
+      <title>NYT &gt; Technology</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/technology?emc=rss&amp;partner=rss</link>
+    </image>
+    <item>
+      <title>Uber: 3,045 Sexual Assaults Reported in U.S. Rides Last Year</title>
+      <link>https://www.nytimes.com/2019/12/05/technology/uber-sexual-assaults-murders-deaths-safety.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/12/05/technology/uber-sexual-assaults-murders-deaths-safety.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/12/05/technology/uber-sexual-assaults-murders-deaths-safety.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>In its first safety report, the ride-hailing company detailed sexual assaults, murders and fatal crashes through its platform.</description>
+      <dc:creator>Kate Conger</dc:creator>
+      <pubDate>Thu, 05 Dec 2019 23:30:21 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Traffic Accidents and Safety</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobile Safety Features and Defects</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Murders, Attempted Murders and Homicides</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Corporate Social Responsibility</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">West, Tony (1965- )</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/12/05/business/05uber1/05uber1-moth.jpg" width="151"></media:content>
+      <media:credit>Jeenah Moon for The New York Times</media:credit>
+      <media:description>Uber and other ride-hailing services have become widely used over the last decade in cities like New York.</media:description>
+    </item>
+    <item>
+      <title>How Google’s Founders Slowly Stepped Away From Their Company</title>
+      <link>https://www.nytimes.com/2019/12/04/technology/google-larry-page-sergey-br.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/12/04/technology/google-larry-page-sergey-br.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/12/04/technology/google-larry-page-sergey-br.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Larry Page and Sergey Brin became billionaires thanks to the success of Google. But toward the end, they appeared happy to let someone else run it.</description>
+      <dc:creator>Jack Nicas, Conor Dougherty and Daisuke Wakabayashi</dc:creator>
+      <pubDate>Thu, 05 Dec 2019 12:41:48 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search Engines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Driverless and Semiautonomous Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Android (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">YouTube.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brin, Sergey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Page, Larry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thrun, Sebastian</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pichai, Sundar</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/12/04/business/04larrysergey8/04larrysergey8-moth-v4.jpg" width="151"></media:content>
+      <media:credit>MediaNews Group/The Mercury News via Getty Images</media:credit>
+      <media:description>Sergey Brin, left, and Larry Page in 2003 at Google’s headquarters in Mountain View, Calif.</media:description>
+    </item>
+    <item>
+      <title>Podcasts and Travel Apps? Facebook Is Working on Those</title>
+      <link>https://www.nytimes.com/2019/12/04/technology/facebook-npe-team.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/12/04/technology/facebook-npe-team.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/12/04/technology/facebook-npe-team.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The social network is exploring new product areas through a team dedicated to building the company’s future.</description>
+      <dc:creator>Mike Isaac</dc:creator>
+      <pubDate>Wed, 04 Dec 2019 10:00:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Instant Messaging</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Podcasts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Archibong, Ime</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/12/03/business/00facebook1/00facebook1-moth.jpg" width="151"></media:content>
+      <media:credit>Josh Edelson/Agence France-Presse — Getty Images</media:credit>
+      <media:description>Facebook’s New Product Experimentation Team is brainstorming ways for the company to expand.</media:description>
+    </item>
+    <item>
+      <title>From Camera Roll to Canvas: Make Art From Your Photos</title>
+      <link>https://www.nytimes.com/2019/12/04/technology/personaltech/turn-photos-into-paintings.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/12/04/technology/personaltech/turn-photos-into-paintings.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/12/04/technology/personaltech/turn-photos-into-paintings.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Several apps transform a memorable portrait or vacation shot into a “painting” suitable for hanging over the couch or sharing this holiday season.</description>
+      <dc:creator>J. D. Biersdorfer</dc:creator>
+      <pubDate>Wed, 04 Dec 2019 14:00:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Art</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/12/04/technology/personaltech/04TECHTIP_TOPART/04TECHTIP_TOPART-moth.jpg" width="151"></media:content>
+      <media:description>Apps like Prisma use sophisticated filters to turn ordinary photographs into digital artwork in a variety of painting and illustration styles.</media:description>
+    </item>
+    <item>
+      <title>19 Women Sue Lyft as Sexual Assault Allegations Mount</title>
+      <link>https://www.nytimes.com/2019/12/05/business/lyft-sexual-assault-lawsuit.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/12/05/business/lyft-sexual-assault-lawsuit.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/12/05/business/lyft-sexual-assault-lawsuit.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Dozens of women have joined lawsuits against the ride-sharing company, saying it has not done enough to prevent assaults by drivers.</description>
+      <dc:creator>Maria Cramer</dc:creator>
+      <pubDate>Thu, 05 Dec 2019 23:33:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Lyft Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Women and Girls</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/12/05/multimedia/05xp-lyft/05xp-lyft-moth.jpg" width="151"></media:content>
+      <media:credit>Justin Sullivan/Getty Images</media:credit>
+      <media:description>After earlier lawsuits, Lyft announced it had been screening drivers’ criminal backgrounds daily to find out if they had been arrested. </media:description>
+    </item>
+    <item>
+      <title>How a Preacher’s Grandson From Rural Georgia Grew Up to Lead Cisco</title>
+      <link>https://www.nytimes.com/2019/12/05/business/chuck-robbins-cisco-corner-office.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/12/05/business/chuck-robbins-cisco-corner-office.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/12/05/business/chuck-robbins-cisco-corner-office.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>As the head of a $185 billion technology company, Chuck Robbins says, “We have to run a good business, but there’s more to it.”</description>
+      <dc:creator>David Gelles</dc:creator>
+      <pubDate>Thu, 05 Dec 2019 21:03:17 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Robbins, Charles H</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Cisco Systems Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Business Roundtable</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/12/08/business/05CORNEROFFICE-01/05CORNEROFFICE-01-moth.jpg" width="151"></media:content>
+      <media:credit>Guerin Blask for The New York Times</media:credit>
+    </item>
+    <item>
+      <title>Palettes Are What Every Teen Wants for the Holidays</title>
+      <link>https://www.nytimes.com/2019/12/05/style/makeup-palettes-influencer-eye-shadow.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/12/05/style/makeup-palettes-influencer-eye-shadow.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/12/05/style/makeup-palettes-influencer-eye-shadow.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>How did eye shadow become the most sought-after item on high schoolers’ wish lists?</description>
+      <dc:creator>Sanam Yar</dc:creator>
+      <pubDate>Thu, 05 Dec 2019 05:00:04 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cosmetics and Toiletries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Charles, James (Makeup Artist)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dawson, Shane (1988- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jeffree Star (1985- )</category>
+    </item>
+    <item>
+      <title>Huawei Sues the F.C.C., Ramping Up Fight With Critics and Foes</title>
+      <link>https://www.nytimes.com/2019/12/04/technology/huawei-fcc-lawsuit.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/12/04/technology/huawei-fcc-lawsuit.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/12/04/technology/huawei-fcc-lawsuit.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The commission took aim last month at the Chinese tech giant’s sales to telecom carriers in rural America.</description>
+      <dc:creator>Raymond Zhong</dc:creator>
+      <pubDate>Thu, 05 Dec 2019 19:47:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Telephones and Telecommunications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Huawei Technologies Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Federal Communications Commission</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">ZTE Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ren Zhengfei</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2020/01/04/world/04huawei1/04huawei1-moth.jpg" width="151"></media:content>
+      <media:credit>Lam Yik Fei for The New York Times</media:credit>
+      <media:description>A Huawei advertisement in Shanghai. The tech giant is at the center of one of China’s disputes with the United States.</media:description>
+    </item>
+    <item>
+      <title>How Huawei Lost the Heart of the Chinese Public</title>
+      <link>https://www.nytimes.com/2019/12/04/technology/huawei-china-backlash.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/12/04/technology/huawei-china-backlash.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/12/04/technology/huawei-china-backlash.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>When an executive wrote about her house arrest in Canada, an outcry about a former employee’s treatment arose on social media.</description>
+      <dc:creator>Li Yuan</dc:creator>
+      <pubDate>Wed, 04 Dec 2019 19:02:11 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Huawei Technologies Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Extradition</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Meng Wanzhou</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Workplace Hazards and Violations</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/12/03/business/03newworld-4/03newworld-4-moth.jpg" width="151"></media:content>
+      <media:credit>Kevin Frayer/Getty Images</media:credit>
+      <media:description>Huawei workers sleeping at their cubicles during their lunch break.</media:description>
+    </item>
+    <item>
+      <title>America’s Dark History of Killing Its Own Troops With Cluster Munitions</title>
+      <link>https://www.nytimes.com/2019/12/04/magazine/cluster-munitions-history.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/12/04/magazine/cluster-munitions-history.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/12/04/magazine/cluster-munitions-history.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The weapons are notorious for their effects on civilians. But five years of reporting and hundreds of interviews have revealed they’ve also killed and wounded scores of Americans.</description>
+      <dc:creator>John Ismay</dc:creator>
+      <pubDate>Wed, 04 Dec 2019 10:00:15 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cluster Munitions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Iraq War (2003-11)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Civilian Casualties</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Aerojet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Defense Department</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/12/03/magazine/03atwar-clustermunitions-image-06/03atwar-clustermunitions-image-06-moth.jpg" width="151"></media:content>
+      <media:credit>Kirby Lee Vaughn</media:credit>
+      <media:description>First Lt. Des Walton salutes during a memorial service for seven members of his company who were killed in an explosion at As Salman Airfield in Iraq. Walton was injured in that same explosion, and was recovering from his wounds at the time.</media:description>
+    </item>
+    <item>
+      <title>Era Ends for Google as Founders Step Aside From a Pillar of Tech</title>
+      <link>https://www.nytimes.com/2019/12/03/technology/google-alphabet-ceo-larry-page-sundar-pichai.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/12/03/technology/google-alphabet-ceo-larry-page-sundar-pichai.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/12/03/technology/google-alphabet-ceo-larry-page-sundar-pichai.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Sundar Pichai, who has run Google for several years, is taking the reins from Larry Page as Alphabet’s C.E.O.</description>
+      <dc:creator>Jack Nicas and Daisuke Wakabayashi</dc:creator>
+      <pubDate>Wed, 04 Dec 2019 01:44:18 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Alphabet Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brin, Sergey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Page, Larry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pichai, Sundar</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/12/03/business/03google/03google-moth.jpg" width="151"></media:content>
+      <media:credit>Tsering Topgyal/Associated Press</media:credit>
+      <media:description>Sundar Pichai, Google’s chief executive, will become the chief of both Google and Alphabet.</media:description>
+    </item>
+    <item>
+      <title>Elon Musk’s Defense: ‘Pedo Guy’ Tweet Was a Generic Insult</title>
+      <link>https://www.nytimes.com/2019/12/03/business/elon-musk-defamation-trial.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/12/03/business/elon-musk-defamation-trial.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/12/03/business/elon-musk-defamation-trial.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The Tesla billionaire took the stand in a civil defamation trial in Los Angeles.</description>
+      <dc:creator>Niraj Chokshi and Eric A. Taub</dc:creator>
+      <pubDate>Wed, 04 Dec 2019 02:58:06 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Libel and Slander</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Tesla Motors Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Space Exploration Technologies Corp</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Unsworth, Vern</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/12/03/business/03musk/03musk-moth.jpg" width="151"></media:content>
+      <media:credit>Loren Elliott/Getty Images</media:credit>
+      <media:description>Elon Musk, the chief executive of Tesla and SpaceX, is being sued by a British cave explorer.</media:description>
+    </item>
+    <item>
+      <title>Sex Trafficking via Facebook Sets Off a Lawyer’s Novel Crusade</title>
+      <link>https://www.nytimes.com/2019/12/03/technology/facebook-lawsuit-section-230.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/12/03/technology/facebook-lawsuit-section-230.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/12/03/technology/facebook-lawsuit-section-230.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>A personal-injury lawyer in Houston is using an unusual argument to try to upend the internet’s most vital law.</description>
+      <dc:creator>Jack Nicas</dc:creator>
+      <pubDate>Tue, 03 Dec 2019 17:03:31 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">McAdams, Annie (Attorney)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Human Trafficking</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Prostitution</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Zuckerberg, Mark E</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/12/03/business/03facebooksuit/03facebooksuit-moth.jpg" width="151"></media:content>
+      <media:credit>Brandon Thibodeaux for The New York Times</media:credit>
+      <media:description>&amp;ldquo;If you sell a lawn mower and the blade flies off and chops someone in the leg, you have the responsibility to fix it and warn people,&amp;rdquo; Annie McAdams said.</media:description>
+    </item>
+    <item>
+      <title>China Uses DNA to Map Faces, With Help From the West</title>
+      <link>https://www.nytimes.com/2019/12/03/business/china-dna-uighurs-xinjiang.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/12/03/business/china-dna-uighurs-xinjiang.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/12/03/business/china-dna-uighurs-xinjiang.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Beijing’s pursuit of control over a Muslim ethnic group pushes the rules of science and raises questions about consent.</description>
+      <dc:creator>Sui-Lee Wee and Paul Mozur</dc:creator>
+      <pubDate>Wed, 04 Dec 2019 15:34:12 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Uighurs (Chinese Ethnic Group)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Xinjiang (China)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Ministry of Public Security of the People&#39;s Republic of China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Genetics and Heredity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Forensic Science</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">DNA (Deoxyribonucleic Acid)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Face</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Chinese Academy of Sciences</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Springer Nature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Racial Profiling</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Illumina Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Thermo Fisher Scientific Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Erasmus Medical Center</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Human Genetics (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Max Planck Society</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Hereditas (Beijing) (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ethics and Official Misconduct</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/10/14/business/00CHINA-DNA1/00CHINA-DNA1-moth.jpg" width="151"></media:content>
+      <media:credit>BMC Bioinformatics</media:credit>
+      <media:description>Images from a study in 2013 on 3-D human facial images.</media:description>
+    </item>
+    <item>
+      <title>Facebook Gives Workers a Chatbot to Appease That Prying Uncle</title>
+      <link>https://www.nytimes.com/2019/12/02/technology/facebook-chatbot-workers.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/12/02/technology/facebook-chatbot-workers.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/12/02/technology/facebook-chatbot-workers.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The “Liam Bot” teaches employees what to say if friends or family ask difficult questions about the company over the holidays.</description>
+      <dc:creator>Sheera Frenkel and Mike Isaac</dc:creator>
+      <pubDate>Mon, 02 Dec 2019 23:40:05 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Public Relations and Publicity</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/12/02/business/02fbchatbot/02fbchatbot-moth.jpg" width="151"></media:content>
+      <media:credit>Eric Thayer for The New York Times</media:credit>
+      <media:description>A chatbot is available to help Facebook employees if they get the kinds of questions that their boss, Mark Zuckerberg, right, faced on Capitol Hill.</media:description>
+    </item>
+    <item>
+      <title>Facebook Testing a Way to Let You Move Photos to Rival Sites</title>
+      <link>https://www.nytimes.com/2019/12/02/technology/facebook-photos-EU.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/12/02/technology/facebook-photos-EU.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/12/02/technology/facebook-photos-EU.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>The company, accused by the E.U. of stifling competition, is trying a tool in Ireland that would allow users to move photos and videos to Google.</description>
+      <dc:creator>Adam Satariano</dc:creator>
+      <pubDate>Mon, 02 Dec 2019 19:20:49 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Regulation and Deregulation of Industry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Antitrust Laws and Competition Issues</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Facebook Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">General Data Protection Regulation (GDPR)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Photography</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Europe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">European Union</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ireland</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/12/02/business/02facebookphotos/02facebookphotos-moth.jpg" width="151"></media:content>
+      <media:credit>Jim Wilson/The New York Times</media:credit>
+      <media:description>Facebook, facing new privacy laws and criticism from regulators, said its announcement on Monday followed international discussions. </media:description>
+    </item>
+    <item>
+      <title>Twitter Permanently Suspends Accounts of Ilhan Omar’s Potential Challenger</title>
+      <link>https://www.nytimes.com/2019/11/30/us/Danielle-Stella-Twitter-Ilhan-Omar.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/30/us/Danielle-Stella-Twitter-Ilhan-Omar.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/30/us/Danielle-Stella-Twitter-Ilhan-Omar.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Danielle Stella, a Republican, suggested on Twitter that Ms. Omar be tried for treason and hanged.</description>
+      <dc:creator>Derrick Bryson Taylor</dc:creator>
+      <pubDate>Sat, 30 Nov 2019 20:54:42 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Twitter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stella, Danielle</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minnesota</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Omar, Ilhan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Muslim Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Discrimination</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/30/us/politics/30xp-twitter/30xp-twitter-moth.jpg" width="151"></media:content>
+      <media:credit>T.J. Kirkpatrick for The New York Times</media:credit>
+      <media:description>“Violent rhetoric inevitably leads to violent threats, and ultimately, violent acts,” Representative Ilhan Omar wrote on Twitter.</media:description>
+    </item>
+    <item>
+      <title>Prime Mover: How Amazon Wove Itself Into the Life of an American City</title>
+      <link>https://www.nytimes.com/2019/11/30/business/amazon-baltimore.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/30/business/amazon-baltimore.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/30/business/amazon-baltimore.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>For most people, it’s the click that brings a package to their door. But a look at Baltimore shows how Amazon may now reach into Americans’ daily existence in more ways than any corporation in history.</description>
+      <dc:creator>Scott Shane</dc:creator>
+      <pubDate>Thu, 05 Dec 2019 20:38:26 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Amazon.com Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Baltimore (Md)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bezos, Jeffrey P</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cloud Computing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delivery Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Robots and Robotics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Book Trade and Publishing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Baltimore-Washington International Thurgood Marshall Airport (Md)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Fedex Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Johns Hopkins University</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/25/multimedia/00baltimore-skyline/00baltimore-skyline-moth.jpg" width="151"></media:content>
+      <media:credit>Gabriella Demczuk for The New York Times</media:credit>
+      <media:description>The Inner Harbor in Baltimore. Many shops in the district are struggling, and online retailers like Amazon are a factor.</media:description>
+    </item>
+    <item>
+      <title>Black Friday 2019: What You Need to Know</title>
+      <link>https://www.nytimes.com/2019/11/29/business/black-friday-2019.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/29/business/black-friday-2019.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/29/business/black-friday-2019.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Whether you’re hitting the stores or buying online from your couch, we’re here to see you through all the doorbuster deals and Black Friday blowouts.</description>
+      <dc:creator>The New York Times</dc:creator>
+      <pubDate>Fri, 29 Nov 2019 22:06:03 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Black Friday and Cyber Monday (Shopping)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Luxury Goods and Services</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/11/29/business/29blackfriday_8/29blackfriday_8-moth.jpg" width="151"></media:content>
+      <media:credit>Calla Kessler/The New York Times</media:credit>
+      <media:description>Black Friday isn’t what it used to be. But the day still drives sales for stores like Macy’s at Herald Square in New York.</media:description>
+    </item>
+    <item>
+      <title>The Hunt for Jeffrey Epstein’s Hidden Files</title>
+      <link>https://www.nytimes.com/2019/11/29/the-weekly/jeffrey-epstein-secret-videos.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/29/the-weekly/jeffrey-epstein-secret-videos.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/29/the-weekly/jeffrey-epstein-secret-videos.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>A mysterious man told us he had surveillance footage from Jeffrey Epstein’s properties. Then his story took a turn.</description>
+      <pubDate>Mon, 02 Dec 2019 10:35:57 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Boies, David</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Epstein, Jeffrey E (1953- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">The Weekly (TV Program)</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/12/01/universal/01theweekly-thehotlist-promoimage/01theweekly-thehotlist-promoimage-moth.jpg" width="151"></media:content>
+      <media:credit>&#34;The Weekly&#34;/The New York Times/FX/Hulu</media:credit>
+    </item>
+    <item>
+      <title>Here’s What’s Happening in the American Teenage Bedroom</title>
+      <link>https://www.nytimes.com/2019/11/29/style/the-clout.html?emc=rss&amp;partner=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2019/11/29/style/the-clout.html</guid>
+      <atom:link href="https://www.nytimes.com/2019/11/29/style/the-clout.html?emc=rss&amp;partner=rss" rel="standout"></atom:link>
+      <description>Rowan Winch is 15. He’s a businessman.</description>
+      <dc:creator>Taylor Lorenz</dc:creator>
+      <pubDate>Mon, 02 Dec 2019 19:00:14 +0000</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Teenagers and Adolescence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Instagram Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org">Discord Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-selfcare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">your-feed-internet-culture</category>
+      <media:content height="151" medium="image" url="https://static01.nyt.com/images/2019/12/19/fashion/19ROWAN-PROMO/19ROWAN-PROMO-moth-v2.jpg" width="151"></media:content>
+      <media:credit>Eva O&#39;Leary for The New York Times</media:credit>
+    </item>
+  </channel>
+</rss>

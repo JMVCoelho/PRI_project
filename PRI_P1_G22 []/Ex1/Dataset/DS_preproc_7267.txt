@@ -1,0 +1,1 @@
+technically reason chip set cannot support dx mhz local buswaiting mezzianine spvl bus decoupled main cpu clock allow many slots due user buffersallow use ever faster cpus standard cardsnext buss specguy

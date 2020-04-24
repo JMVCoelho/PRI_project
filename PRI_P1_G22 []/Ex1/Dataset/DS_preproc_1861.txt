@@ -1,0 +1,1 @@
+vesa local bus motherboard mb ram k cache floppy mb hard drive ide controller hd fd p g local bus mb svga video card svga monitor dpi mini tower key keyboard

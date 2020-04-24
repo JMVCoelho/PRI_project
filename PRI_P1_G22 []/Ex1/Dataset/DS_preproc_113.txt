@@ -1,0 +1,1 @@
+dec nt dx adaptec scsi controller hard disk cd rom driveadd comm ethernet card c reboot system receive error message boot device cannot foundpull comm card reboot everything finemoved controller comm card various slots different positions slot controller slot controller resultdec responded problem yethelp would appreciated

@@ -1,0 +1,1 @@
+tried one font xterm terminfos termcaps set remap bold default reverse nothing happens bold displayedwould appear least xr cannot display bold xterm without specifying two fonts normal boldwish someone would prove incorrect

@@ -1,0 +1,1 @@
+need find uart interface following k baud data bits stop bits parity ability break detect irq output pin irq character received using dallas ds mhz clone break detectlooked etc

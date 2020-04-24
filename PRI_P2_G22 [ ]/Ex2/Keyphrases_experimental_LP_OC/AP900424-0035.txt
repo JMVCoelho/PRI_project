@@ -1,0 +1,5 @@
+condition
+doctors
+taylor
+said
+john

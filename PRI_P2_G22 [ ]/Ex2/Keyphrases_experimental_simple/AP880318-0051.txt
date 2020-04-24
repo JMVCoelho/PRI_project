@@ -1,0 +1,5 @@
+sun
+moon
+first
+solar
+eclipse

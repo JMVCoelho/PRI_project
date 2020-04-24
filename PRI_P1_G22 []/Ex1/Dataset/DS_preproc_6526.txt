@@ -1,0 +1,1 @@
+hi looking algorithm would generate good cross section rgb colours given limited colour map sizeproblem writing application pc may colorswant use one colormap palette application like contain even spread colours visible spectrumcould use xx rgb cube problem lot colours almost identical human eye

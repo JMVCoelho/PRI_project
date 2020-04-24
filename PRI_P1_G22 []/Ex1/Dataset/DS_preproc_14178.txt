@@ -1,0 +1,1 @@
+need help creating x perspective matrixlike use transforming x z w texture mapping code got graphics gems many books talk none simple plain englishgraphics gems talking pagelike perspective matrix handles different field views aspect coursethank helpyes course everything say personal opinion

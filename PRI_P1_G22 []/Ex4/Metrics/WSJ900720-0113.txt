@@ -1,0 +1,5 @@
+Precision: 0.5
+Recall: 0.125
+F1: 0.2
+P@5: 0.2
+MAV: 0.75

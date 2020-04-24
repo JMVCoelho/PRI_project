@@ -1,0 +1,1 @@
+try telnet login to_cserve get compuserve networkenter hostname cis get userid promptfigure let knowalso let know backspace key works

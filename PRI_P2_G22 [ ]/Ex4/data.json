@@ -1,0 +1,485 @@
+{
+    "file1.txt": [
+        "Uber: 3,045 Sexual Assaults Reported in U.S. Rides Last Year\nIn its first safety report, the ride-hailing company detailed sexual assaults, murders and fatal crashes through its platform.\n",
+        [
+            "sexual assaults",
+            0.05253631817099309
+        ],
+        [
+            "sexual assaults reported",
+            0.052434358094735456
+        ],
+        [
+            "assaults reported",
+            0.05061179087875417
+        ],
+        [
+            "assaults",
+            0.048679921773142114
+        ],
+        [
+            "uber",
+            0.048467871997283765
+        ]
+    ],
+    "file10.txt": [
+        "America\u0092s Dark History of Killing Its Own Troops With Cluster Munitions\nThe weapons are notorious for their effects on civilians. But five years of reporting and hundreds of interviews have revealed they\u0092ve also killed and wounded scores of Americans.\n",
+        [
+            "dark history killing",
+            0.054016008190236865
+        ],
+        [
+            "troops cluster munitions",
+            0.0518547100890055
+        ],
+        [
+            "troops cluster",
+            0.050494039383394126
+        ],
+        [
+            "history killing troops",
+            0.049915951115351416
+        ],
+        [
+            "dark history",
+            0.04989245555283291
+        ]
+    ],
+    "file11.txt": [
+        "Era Ends for Google as Founders Step Aside From a Pillar of Tech\nSundar Pichai, who has run Google for several years, is taking the reins from Larry Page as Alphabet\u0092s C.E.O.\n",
+        [
+            "ends google founders",
+            0.0510989010989011
+        ],
+        [
+            "era ends",
+            0.050174554426857754
+        ],
+        [
+            "tech sundar pichai",
+            0.048457988425756354
+        ],
+        [
+            "era",
+            0.04805088528492784
+        ],
+        [
+            "google",
+            0.04796033355871084
+        ]
+    ],
+    "file12.txt": [
+        "Elon Musk\u0092s Defense: \u0091Pedo Guy\u0092 Tweet Was a Generic Insult\nThe Tesla billionaire took the stand in a civil defamation trial in Los Angeles.\n",
+        [
+            "elon musk",
+            0.051941611064243165
+        ],
+        [
+            "insult tesla billionaire",
+            0.051899509803921565
+        ],
+        [
+            "billionaire took stand",
+            0.05080957442769826
+        ],
+        [
+            "pedo guy",
+            0.05057048214942952
+        ],
+        [
+            "billionaire took",
+            0.049547081436967
+        ]
+    ],
+    "file13.txt": [
+        "Sex Trafficking via Facebook Sets Off a Lawyer\u0092s Novel Crusade\nA personal-injury lawyer in Houston is using an unusual argument to try to upend the internet\u0092s most vital law.\n",
+        [
+            "sex trafficking via",
+            0.05247252747252747
+        ],
+        [
+            "injury lawyer houston",
+            0.051434479193590066
+        ],
+        [
+            "trafficking via facebook",
+            0.0492839141926363
+        ],
+        [
+            "sex",
+            0.04799130178387144
+        ],
+        [
+            "via facebook sets",
+            0.046830786644029426
+        ]
+    ],
+    "file14.txt": [
+        "China Uses DNA to Map Faces, With Help From the West\nBeijing\u0092s pursuit of control over a Muslim ethnic group pushes the rules of science and raises questions about consent.\n",
+        [
+            "control muslim ethnic",
+            0.04995126705653021
+        ],
+        [
+            "uses dna map",
+            0.04901985961307995
+        ],
+        [
+            "muslim ethnic group",
+            0.048756530825496344
+        ],
+        [
+            "pushes rules science",
+            0.04794372294372294
+        ],
+        [
+            "west beijing",
+            0.047169957774465976
+        ]
+    ],
+    "file15.txt": [
+        "Facebook Gives Workers a Chatbot to Appease That Prying Uncle\nThe \u0093Liam Bot\u0094 teaches employees what to say if friends or family ask difficult questions about the company over the holidays.\n",
+        [
+            "chatbot appease prying",
+            0.05413165266106442
+        ],
+        [
+            "workers chatbot appease",
+            0.051687378167641324
+        ],
+        [
+            "chatbot appease",
+            0.05088645481444651
+        ],
+        [
+            "facebook gives workers",
+            0.05075786282682834
+        ],
+        [
+            "appease prying",
+            0.04801789446185998
+        ]
+    ],
+    "file16.txt": [
+        "Facebook Testing a Way to Let You Move Photos to Rival Sites\nThe company, accused by the E.U. of stifling competition, is trying a tool in Ireland that would allow users to move photos and videos to Google.\n",
+        [
+            "move photos",
+            0.05302471865939358
+        ],
+        [
+            "photos",
+            0.05220125786163522
+        ],
+        [
+            "move photos rival",
+            0.050190910784131126
+        ],
+        [
+            "let move photos",
+            0.050009261831990365
+        ],
+        [
+            "facebook testing way",
+            0.04959130054006715
+        ]
+    ],
+    "file17.txt": [
+        "Twitter Permanently Suspends Accounts of Ilhan Omar\u0092s Potential Challenger\nDanielle Stella, a Republican, suggested on Twitter that Ms. Omar be tried for treason and hanged.\n",
+        [
+            "twitter permanently suspends",
+            0.053250208910586266
+        ],
+        [
+            "twitter",
+            0.05112044817927171
+        ],
+        [
+            "suspends accounts ilhan",
+            0.05034857062649137
+        ],
+        [
+            "potential challenger danielle",
+            0.04993872549019608
+        ],
+        [
+            "accounts ilhan",
+            0.049773857982813204
+        ]
+    ],
+    "file18.txt": [
+        "Prime Mover: How Amazon Wove Itself Into the Life of an American City\nFor most people, it\u0092s the click that brings a package to their door. But a look at Baltimore shows how Amazon may now reach into Americans\u0092 daily existence in more ways than any corporation in history.\n",
+        [
+            "amazon",
+            0.05664488017429194
+        ],
+        [
+            "click brings package",
+            0.052075375604787366
+        ],
+        [
+            "american city people",
+            0.05098480148883375
+        ],
+        [
+            "american city",
+            0.04904187552213868
+        ],
+        [
+            "amazon wove",
+            0.048006379585326955
+        ]
+    ],
+    "file19.txt": [
+        "Black Friday 2019: What You Need to Know\nWhether you\u0092re hitting the stores or buying online from your couch, we\u0092re here to see you through all the doorbuster deals and Black Friday blowouts.\n",
+        [
+            "black friday",
+            0.05350140056022409
+        ],
+        [
+            "friday 2019",
+            0.05108154372860255
+        ],
+        [
+            "black friday 2019",
+            0.04974613993601335
+        ],
+        [
+            "black",
+            0.049640610961365676
+        ],
+        [
+            "friday",
+            0.04960770936380693
+        ]
+    ],
+    "file2.txt": [
+        "How Google\u0092s Founders Slowly Stepped Away From Their Company\nLarry Page and Sergey Brin became billionaires thanks to the success of Google. But toward the end, they appeared happy to let someone else run it.\n",
+        [
+            "slowly stepped away",
+            0.054593602359242877
+        ],
+        [
+            "founders slowly stepped",
+            0.05147095008907392
+        ],
+        [
+            "stepped away company",
+            0.05143191116306253
+        ],
+        [
+            "google",
+            0.05141080822572931
+        ],
+        [
+            "sergey brin became",
+            0.05078654222489839
+        ]
+    ],
+    "file20.txt": [
+        "The Hunt for Jeffrey Epstein\u0092s Hidden Files\nA mysterious man told us he had surveillance footage from Jeffrey Epstein\u0092s properties. Then his story took a turn.\n",
+        [
+            "jeffrey epstein",
+            0.055670221304896225
+        ],
+        [
+            "epstein",
+            0.05223942723942724
+        ],
+        [
+            "hidden files mysterious",
+            0.05203678417742469
+        ],
+        [
+            "jeffrey",
+            0.05133545699583435
+        ],
+        [
+            "told us surveillance",
+            0.04970891177787729
+        ]
+    ],
+    "file21.txt": [
+        "Here\u0092s What\u0092s Happening in the American Teenage Bedroom\nRowan Winch is 15. He\u0092s a businessman.\n",
+        [
+            "happening american",
+            0.05454545454545454
+        ],
+        [
+            "happening",
+            0.054255393913837935
+        ],
+        [
+            "teenage bedroom rowan",
+            0.05280522680037551
+        ],
+        [
+            "teenage bedroom",
+            0.052134337727558065
+        ],
+        [
+            "what",
+            0.051820356098857295
+        ]
+    ],
+    "file3.txt": [
+        "Podcasts and Travel Apps? Facebook Is Working on Those\nThe social network is exploring new product areas through a team dedicated to building the company\u0092s future.\n",
+        [
+            "travel",
+            0.05590496156533892
+        ],
+        [
+            "podcasts travel apps",
+            0.055882352941176466
+        ],
+        [
+            "podcasts",
+            0.052160168598524764
+        ],
+        [
+            "social network exploring",
+            0.05205293764615798
+        ],
+        [
+            "working social network",
+            0.051578627808136004
+        ]
+    ],
+    "file4.txt": [
+        "From Camera Roll to Canvas: Make Art From Your Photos\nSeveral apps transform a memorable portrait or vacation shot into a \u0093painting\u0094 suitable for hanging over the couch or sharing this holiday season.\n",
+        [
+            "several apps transform",
+            0.05253795819833555
+        ],
+        [
+            "roll canvas",
+            0.051284256392615524
+        ],
+        [
+            "portrait vacation shot",
+            0.04838390567904225
+        ],
+        [
+            "art photos several",
+            0.04740305800756621
+        ],
+        [
+            "camera roll canvas",
+            0.04734263579871208
+        ]
+    ],
+    "file5.txt": [
+        "19 Women Sue Lyft as Sexual Assault Allegations Mount\nDozens of women have joined lawsuits against the ride-sharing company, saying it has not done enough to prevent assaults by drivers.\n",
+        [
+            "assault allegations",
+            0.04963427377220481
+        ],
+        [
+            "lyft",
+            0.04947089947089947
+        ],
+        [
+            "assault allegations mount",
+            0.04930765751661274
+        ],
+        [
+            "19 women",
+            0.048900772430184196
+        ],
+        [
+            "joined lawsuits ride",
+            0.047901002506265666
+        ]
+    ],
+    "file6.txt": [
+        "How a Preacher\u0092s Grandson From Rural Georgia Grew Up to Lead Cisco\nAs the head of a $185 billion technology company, Chuck Robbins says, \u0093We have to run a good business, but there\u0092s more to it.\u0094\n",
+        [
+            "georgia grew lead",
+            0.0535158891142664
+        ],
+        [
+            "rural georgia",
+            0.04895104895104895
+        ],
+        [
+            "grandson",
+            0.048648895988286
+        ],
+        [
+            "grandson rural georgia",
+            0.04791275883629408
+        ],
+        [
+            "chuck robbins says",
+            0.047570188989570605
+        ]
+    ],
+    "file7.txt": [
+        "Palettes Are What Every Teen Wants for the Holidays\nHow did eye shadow become the most sought-after item on high schoolers\u0092 wish lists?\n",
+        [
+            "palettes every teen",
+            0.05601962731467959
+        ],
+        [
+            "palettes every",
+            0.05256410256410256
+        ],
+        [
+            "teen wants holidays",
+            0.05245582079059215
+        ],
+        [
+            "item high schoolers",
+            0.05203619909502262
+        ],
+        [
+            "wants holidays eye",
+            0.0503968253968254
+        ]
+    ],
+    "file8.txt": [
+        "Huawei Sues the F.C.C., Ramping Up Fight With Critics and Foes\nThe commission took aim last month at the Chinese tech giant\u0092s sales to telecom carriers in rural America.\n",
+        [
+            "critics foes commission",
+            0.055882352941176466
+        ],
+        [
+            "sues",
+            0.052922758583135936
+        ],
+        [
+            "huawei sues",
+            0.0511214907799348
+        ],
+        [
+            "fight critics foes",
+            0.04927799258265604
+        ],
+        [
+            "commission took aim",
+            0.048494110316838854
+        ]
+    ],
+    "file9.txt": [
+        "How Huawei Lost the Heart of the Chinese Public\nWhen an executive wrote about her house arrest in Canada, an outcry about a former employee\u0092s treatment arose on social media.\n",
+        [
+            "heart chinese public",
+            0.05360623781676413
+        ],
+        [
+            "treatment arose social",
+            0.05074337427278604
+        ],
+        [
+            "lost heart",
+            0.05037345603383339
+        ],
+        [
+            "huawei lost",
+            0.04856617647058824
+        ],
+        [
+            "huawei lost heart",
+            0.04848977326779769
+        ]
+    ]
+}

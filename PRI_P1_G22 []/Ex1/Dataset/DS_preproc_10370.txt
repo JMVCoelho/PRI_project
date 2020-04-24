@@ -1,0 +1,1 @@
+another way would use getgeometry find relative frame translatecoordinates find window upperleft corner reallyethan

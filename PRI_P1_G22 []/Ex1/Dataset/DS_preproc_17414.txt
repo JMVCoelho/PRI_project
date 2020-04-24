@@ -1,0 +1,1 @@
+use pbm rawtopgm convert three raw r g b files pgm formatuse pgmtoppm convert pgm files composite ppm file feed cjpeg compressionslow circuitous work

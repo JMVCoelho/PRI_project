@@ -1,0 +1,1 @@
+xt call give application contextfixing x motif program trying use xtappaddtimeout whose first argument app_contextcall use give valuextappcontext xtwidgettoapplicationcontext widget

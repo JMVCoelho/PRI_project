@@ -1,0 +1,1 @@
+apple uses ieee nubus standard bit backplane busgot technote reada couple weeks ago hope helps bret chase

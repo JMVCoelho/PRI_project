@@ -1,0 +1,1 @@
+fix table xr mit server ddx sun use xmodmapput stty pass setenv lc_ctype iso__ setenv lesscharset latin loginfirst prevents stripping bit second sets localethird makes less show character instead octal representationrj

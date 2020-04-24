@@ -1,0 +1,13 @@
+.news_text {
+    white-space: pre;
+}
+
+.column.left{
+    float: left;
+    width: 15%;
+}
+
+.column.right{
+    float: left;
+    width: 85%;
+}

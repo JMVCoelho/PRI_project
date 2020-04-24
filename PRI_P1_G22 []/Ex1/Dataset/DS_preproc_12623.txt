@@ -1,0 +1,1 @@
+fixed problem us getting divide errors caused gw bios overwriting interapplication memory areaproblem clarion database programs also heard fixed problem brief

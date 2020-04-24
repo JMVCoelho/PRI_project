@@ -1,0 +1,1 @@
+irq interface select jumpers pretty straightforward grok settings w w also labelledcould somebody tell settings four jumpers correspond addressesu b pcnic also oemed ibm ethernet card know use addressesinterrupts shared memoryjumpers see control bits base address shared memoryrecall easy determine debug

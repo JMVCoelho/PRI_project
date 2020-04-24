@@ -1,0 +1,1 @@
+graphics systems seen drawing routines also specify color drawing like drawpoint x color drawline x x color fillrectangle x x color x something like xsetforeground current_color xdrawpoint w x split two functionsx designers decide associate color object drawn instead associate display drawn

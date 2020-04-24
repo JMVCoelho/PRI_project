@@ -1,0 +1,1 @@
+installed many x apps many imakefiles lines startingwith xcommxmkmf create makefile makefile also xcomm commentlinesalways edit lines make command barfswondering lines might wrong causes make command dislikethanks

@@ -1,0 +1,1 @@
+written application sparcstation gx openwindowsapplication uses xview stuff create window sun xgl graphics library rendering canvasapplication real time animation update display fast enoughusing notify_set_itimer xview call periodically kick update routine happening fast enoughwant update times secondalso appears compute bound run anything else appplication update rate slows even

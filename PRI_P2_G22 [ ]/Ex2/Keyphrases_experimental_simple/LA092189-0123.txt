@@ -1,0 +1,5 @@
+french
+en
+re
+de
+ca

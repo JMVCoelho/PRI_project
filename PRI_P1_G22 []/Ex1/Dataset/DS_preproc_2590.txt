@@ -1,0 +1,1 @@
+hiwant soft scrolling vga change intern registers crtclittle bit difficult explain would suggest take look programming ega vga adapter addison wesleyfind useful descriptions every available vga registerboris

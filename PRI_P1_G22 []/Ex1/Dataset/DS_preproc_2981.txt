@@ -1,0 +1,1 @@
+wonder anyone tell whether create bitmap sizefollowed bitmap creation example sdk manual specified x bitmap set width height supplied byte string charscannot get right bitmap imagechanged width height x used value string padded zero byets make right size got imageexample manual x size multiple bytesdefine bitmap image sizethanks muchg chen chen citr uq oz au

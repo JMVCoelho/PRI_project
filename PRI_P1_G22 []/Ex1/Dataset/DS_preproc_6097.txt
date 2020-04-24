@@ -1,0 +1,1 @@
+sorry olwm tvtwmplace title position window positionbecomes problem want program able save current configuration restore latercurrently solution xcreatewindow xsetwmproperties xmapwindow xflush xmovewindow works olwm less elegantleaves wondering overlooking something obvious

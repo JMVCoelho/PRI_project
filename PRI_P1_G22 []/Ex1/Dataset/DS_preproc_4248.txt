@@ -1,0 +1,1 @@
+feature window manager xtermsequences ansi compatibleanyone know compatible sequenceswould think dcs device control sequence introduced may csi sequence existsmust work dxterm vt ansi compatible may work xterms

@@ -1,0 +1,1 @@
+problem ensuring point focus mouse cursor enters window applicationusing interviews may matter seems generic problem xexample use openwindows sparc point focus set generally works always depending going window move cursor one shell tool window anotherseems question within x guarantee point focus within applicationthanks response

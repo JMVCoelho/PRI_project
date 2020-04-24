@@ -1,0 +1,1 @@
+currently grayscale image files standard formatsimply contain bit pixel valueswould like display images pcconversion gif format would helpfulconversion take place either pc unix system could download pcanyone suggest find softwarealternatively may write conversion programcase could someone tell find gif format specificationplease e mail directly shayla shannon jpl nasa gov

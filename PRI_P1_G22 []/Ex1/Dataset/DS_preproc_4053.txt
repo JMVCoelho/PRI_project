@@ -1,0 +1,1 @@
+soundblaster board sx pc jumpered irq port hconflict parallel portide controller multi io board ser par port vga boardchoose another irq besidesirq safe use motherboardsrecently adding modem computer noticed lpt uses irq sb card hnever problem wonderingthought would cause conflictwould also like explanationanyone explain sb pro lpt share irq pleasethanks

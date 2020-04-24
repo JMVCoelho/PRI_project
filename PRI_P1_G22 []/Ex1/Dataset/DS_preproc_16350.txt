@@ -1,0 +1,1 @@
+bit serial card two portsport option using irqalso two serial ports multi card ports set irqposts read get impression irq bit card irq multi cardright

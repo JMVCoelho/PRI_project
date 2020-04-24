@@ -1,0 +1,1 @@
+trying set ipx another groupcopied x stuff compiled runs sunos using gcc things run finehowever find couple bugs try recompile clients ipx runs get ld undefined symbol _xshapequeryextension _xshapecombinemask know include libxext get rid messages figure get ipxideas

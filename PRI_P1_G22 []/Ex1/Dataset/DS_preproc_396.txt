@@ -1,0 +1,1 @@
+want able set cursor color forground color set xtermman page cr color option specifies color use text cur sordefault use foreground color used texthowever doesnt seem case appears default black whatever xterm cursorcolor set

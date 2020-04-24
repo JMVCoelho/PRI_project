@@ -1,0 +1,1 @@
+following problem xr serverswindow obscured pop window save attribute set subwindows window restorednormally subwindows redrawn parent window gets expose event save attribute used pop window obscured window expose event sentproblem machines works use backing store instead savemarcus

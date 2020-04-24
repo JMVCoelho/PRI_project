@@ -1,0 +1,1 @@
+files buffers device c windows himem sys device c windows smartdrv exe double_buffer stacks also autoexec bat c vshield c windows smartdrv exe l rem mouseware setup path c c dos c windows c fax c mouse c wp set temp c windows temp mouse ser rem c dos share seen problemplease help thanks

@@ -1,0 +1,5 @@
+eclipse
+sun
+solar
+moon
+total

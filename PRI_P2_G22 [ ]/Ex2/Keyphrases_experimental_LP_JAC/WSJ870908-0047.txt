@@ -1,0 +1,5 @@
+market
+diamond
+price
+rise
+de

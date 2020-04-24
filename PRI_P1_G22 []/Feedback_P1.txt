@@ -1,0 +1,20 @@
+Pergunta 1 - 4.75
+Pre-processamento para remover pontuação e stop-words antes da geração de n-gramas - Desconto de 0.25
+
+Pergunta 2 - 4.5
+Imprimem correctamente média das métricas de avaliação sobre toda a colecção de documentos.
+Erro no calculo do MAP - Desconto de 0.5
+
+Pergunta 3 - 3.75
+Erro na parte relativa à extracção de candidatos com base em expressão regular - Desconto de 0.5
+Implementaçaõ própria do BM25, e usam NLTK para POS tagging e extracção de candidatos.
+Combinaram BM25 com tamanho dos candidatos, e experimentaram diferentes padrões para extracção de key-phrases - +0.25
+
+Pergunta 4 - 3.0
+Não fazem splits dos dados para treino e para teste - Desconto de 0.5
+Não fazem previsões com base na probabilidade retornada pelo classificador - Desconto de 0.5
+Combinam 3 features diferentes e reportam resultado de avaliação correctamwnte + 0.25
+
+
+
+- Todos os descontos foram corrigidos.

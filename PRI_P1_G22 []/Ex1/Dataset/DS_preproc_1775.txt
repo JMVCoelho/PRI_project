@@ -1,0 +1,1 @@
+building x gcc since time trouble position independant code option broke use gcc build sun shared librariesimportant thing follow tips given gcc releasegcc generates code requires libgcc take account deciding compiler use librariesmichael salmon include standard disclaimer include witty saying include fancy pseudo graphics

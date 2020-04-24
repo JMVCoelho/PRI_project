@@ -1,0 +1,1 @@
+writing custom widget support display graphics imageryuser widget able specify creating whether operate x gl modeset translations actions handle mouse button presseswork fine widget x modegl mode work widget gl x widget child managerput another way translations work widget configured gl mode child shellanyone know happening

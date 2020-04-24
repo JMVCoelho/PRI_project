@@ -1,0 +1,1 @@
+always use followingcshrc f login source home login endif login setenv loginneed set environment variables cshrc get set login via xdm xon xrsh rxhope helps bernward

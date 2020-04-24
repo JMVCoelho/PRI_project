@@ -1,0 +1,1 @@
+microsoft windows device driver kit ddk documentation blurb states user must separately acquire microsoft windows software development kit sdk contains windows tools build driversusing borland c application frameworks necessaryalso copy microsoft press programmer reference library books normally comes sdk microsoft macro assemblersdk neccessary development virtual device drivers

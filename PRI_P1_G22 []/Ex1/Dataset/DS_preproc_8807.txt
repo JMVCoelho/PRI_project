@@ -1,0 +1,1 @@
+doug nntp posting host se wg waii com doug continuing build problems got stuck build xterm doug undefined first referenced doug symbol file doug index usr ucblib libtermcap termcap doug rindex usr ucblib libtermcap termcap doug ld fatal symbol referencing errorsoutput written xterm actually problem build ld_library_path unset well ld_run_path
