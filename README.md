@@ -14,6 +14,7 @@ P1:
 - BM25  with Candidate Selection;  
 - Supervised Approach (Perceptron)  
 - Evaluation  
+Also contains a report on this part and the statement.  
 
 P2:  
 - PageRank Approach  
@@ -21,6 +22,7 @@ P2:
 - Unsupervised Rank Aggregation Approach     
 - Simple scrapper + simple text visualization  
 - Evaluation  
+Also contains a report on this part and the statement.  
 
 
 Also contains the used dataset.  
